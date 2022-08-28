@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+
+node_modules
+build
+dist
+lib
+
+logs
+*.log
+pnpm-debug.log*
